@@ -20,7 +20,7 @@ __Arguments:__
 
 |     NAME       |        TYPE          | DEFAULT | REQUIRED | DESCRIPTION                                                  |
 |----------------|----------------------|---------|----------|--------------------------------------------------------------|
-| `supportedLangs` | `Array` of `Strings` |         |    YES   | Retrieve only the supported languages for your web app.      |
+| `supportedLangs` | `Array` of `Strings` |         |    NO   | Retrieve only the supported languages for your web app.      |
 | `strict`         | `Boolean`            | `false` |     NO   | Retrieve only the supported languages with strict codes only |
 
 
